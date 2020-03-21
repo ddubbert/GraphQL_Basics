@@ -1,5 +1,5 @@
 # GraphQL_Basics
-Zusammenfassung der wichtigsten GraphQL Grundlagen für Neulinge und vergleich zu REST. Allgemeine Informationen sind in dieser Readme zu finden. Implementierungshinweise und Beispiele finden sich im Wiki dieses Repos.
+Zusammenfassung der wichtigsten GraphQL Grundlagen für Neulinge und vergleich zu REST. Allgemeine Informationen sind in dieser Readme zu finden. Implementierungshinweise und Beispiele finden sich im [Wiki](https://github.com/ddubbert/GraphQL_Basics/wiki) dieses Repos.
 
 ## REST in der Praxis
 
@@ -39,7 +39,7 @@ Das Typsystem der Schnittstelle beschreibt und definiert in GraphQL die Fähigke
 
 Quelle: [GraphQL vs REST - A comparison](https://www.howtographql.com)
 
-```
+```graphql
 type Product {
   id: ID!
   title: String!
