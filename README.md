@@ -1,4 +1,15 @@
 # GraphQL_Basics
+
+> **About this repo (English):** German-language notes on GraphQL basics for
+> newcomers, written in 2019 and published in 2020: REST in practice, GraphQL
+> principles, advantages and drawbacks, a REST comparison, clients, servers
+> and GraphQL in microservices (schema stitching vs. Apollo Federation). The
+> [wiki](https://github.com/ddubbert/GraphQL_Basics/wiki) covers the type
+> system and resolvers with examples. The notes reflect the state of 2019;
+> tooling has changed since (e.g. Apollo Federation 2). Related:
+> [GraphQL_Workshop](https://github.com/ddubbert/GraphQL_Workshop),
+> [GraphQL_Microservice_Research](https://github.com/ddubbert/GraphQL_Microservice_Research).
+> Archived, not maintained.
 Zusammenfassung der wichtigsten GraphQL Grundlagen für Neulinge und vergleich zu REST. Allgemeine Informationen sind in dieser Readme zu finden. Implementierungshinweise und Beispiele finden sich im [Wiki](https://github.com/ddubbert/GraphQL_Basics/wiki) dieses Repos.
 
 ## REST in der Praxis
