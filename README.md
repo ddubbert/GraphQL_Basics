@@ -10,6 +10,7 @@
 > [GraphQL_Workshop](https://github.com/ddubbert/GraphQL_Workshop),
 > [GraphQL_Microservice_Research](https://github.com/ddubbert/GraphQL_Microservice_Research).
 > Archived, not maintained.
+
 Zusammenfassung der wichtigsten GraphQL Grundlagen für Neulinge und vergleich zu REST. Allgemeine Informationen sind in dieser Readme zu finden. Implementierungshinweise und Beispiele finden sich im [Wiki](https://github.com/ddubbert/GraphQL_Basics/wiki) dieses Repos.
 
 ## REST in der Praxis
